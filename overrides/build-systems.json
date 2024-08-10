@@ -9123,6 +9123,9 @@
   "huisbaasje-client": [
     "setuptools"
   ],
+  "human-id": [
+    "poetry-core"
+  ],
   "human-readable": [
     "hatch-vcs",
     "hatchling"
